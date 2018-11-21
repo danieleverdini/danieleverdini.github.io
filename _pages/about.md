@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink:
 title: "Biography"
 excerpt: "About me"
 author_profile: true
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. candidate in Economics at the Institut de Recherches Économiques et Sociales ([IRES](https://uclouvain.be/fr/node/9212)) of the Univesité Catholique de Louvain in Belgium. My research interests includes international trade and productivity dynamics.
+I am Ph.D. candidate in Economics at the Institut de Recherches Économiques et Sociales ([IRES](https://uclouvain.be/fr/node/9212)) of the Univesité Catholique de Louvain in Belgium. I am expected to defend my thesis in Fall 2020 under the supervision of Prof. Gonzague Vannoorenberghe. My research interests includes international trade and productivity dynamics.
 
 A data-driven personal website
 ======
