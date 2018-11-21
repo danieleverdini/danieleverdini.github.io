@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ABOUT ME"
 title_separator          : "-"
 name                     : &name "Daniele Verdini"
-description              : &description "PhD Candidate"
+description              : &description "Academic Website"
 url                      : https://danieleverdini.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "DANIELE VERDINI"
   avatar           : "me.jpg"
-  bio              : "PhD candidate at IRES, Université Catholique de Louvain"
+  bio              : "PhD candidate at [IRES, Université Catholique de Louvain](https://uclouvain.be/fr/node/9212)"
   location         : "Bruxelles, Belgium"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
