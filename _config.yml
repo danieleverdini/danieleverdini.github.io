@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "ABOUT ME"
 title_separator          : "-"
 name                     : &name "Daniele Verdini"
 description              : &description "PhD Candidate"
