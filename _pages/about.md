@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. candidate in Economics at the Institut de Recherches Économiques et Sociales ([IRES](https://uclouvain.be/fr/node/9212)) of the Univesité Catholique de Louvain in Belgium. I am expected to defend my thesis in Fall 2020 under the supervision of Prof. Gonzague Vannoorenberghe. My research interests includes international trade and productivity dynamics.
+I am a Ph.D. candidate in Economics at the Institut de Recherches Économiques et Sociales ([IRES](https://uclouvain.be/fr/node/9212)) of the Université Catholique de Louvain in Belgium. I am expected to defend my thesis in fall 2020 under the supervision of Prof. Gonzague Vannoorenberghe. My research interests includes international trade and productivity dynamics.
 
 ### RESEARCH
 
