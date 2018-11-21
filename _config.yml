@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HOME PAGE"
+title                    : "HOME  PAGE"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Academic Website"
@@ -83,7 +83,7 @@ author:
   name             : "DANIELE VERDINI"
   avatar           : "me.jpg"
   bio              : "Ph.D Candidate at IRES, UCLouvain"
-  location         : "Bruxelles, Belgium"
+  location         : "Brussels, Belgium"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : daniele.verdini@uclouvain.be
