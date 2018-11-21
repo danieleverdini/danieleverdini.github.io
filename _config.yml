@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "BIO"
 title_separator          : "-"
 name                     : &name "Daniele Verdini"
 description              : &description "Academic Website"
