@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DANIELE VERDINI"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Daniele Verdini"
 description              : &description "PhD Candidate"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniele"
+  name             : "DANIELE VERDINI"
   avatar           : "profile.png"
   bio              : "PhD candidate at IRES, Université Catholique de Louvain"
   location         : "Bruxelles, Belgium"
