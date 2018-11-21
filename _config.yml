@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Daniele Verdini"
 title_separator          : "-"
-name                     : &name "Daniele Verdini"
+name                     : &name ""
 description              : &description "Academic Website"
 url                      : https://danieleverdini.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
