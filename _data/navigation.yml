@@ -2,15 +2,6 @@
 main:
   - title: "RESEARCH"
     url: research/      
-    
-  #- title: "TALKS"
-  #  url: talks/
-    
-  #- title: "TEACHING"
-  #  url: teaching/  
         
   - title: "CV"
     url: cv/
-    
-  #- title: "Guide"
-  #  url: markdown/
