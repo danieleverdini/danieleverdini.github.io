@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">I am **Economist** at the Research Department of the [National Bank of Belgium](https://www.nbb.be/en).</p>
+<p align="center"> <I am **Economist** at the Research Department of the [National Bank of Belgium](https://www.nbb.be/en).> </p>
 
   My research focuses on issues related to **international trade** and **industrial organization**. I use empirical and theoretical methods to study the effect of globalization on industries' and firms' performances, market power, and spatial economic activity. 
 
