@@ -1,11 +1,10 @@
 ---
-title: "Lecturer"
-collection: teaching
-type: "Undergraduate"
 permalink: /
-venue: "UAntwerp"
-date: "2025-01-01"
-location: "City, Country"
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # Lecturer
