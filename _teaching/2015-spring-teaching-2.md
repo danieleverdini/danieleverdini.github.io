@@ -1,20 +1,20 @@
 ---
-title: "Lecturer"
+title: ""
 collection: teaching
-type: "Undergraduate"
-permalink: 
-venue: "UAntwerp"
-date: "2025-01-01"
-location: "City, Country"
+type: ""
+permalink: /
+venue: ""
+date: ""
+location: ""
 ---
 
-International Economics
-
-Heading 1
+# Lecturer
 ======
 
-Heading 2
+2025 - International Economics (UAntwerp, undergraduate)
+
+# Teaching Assistant
 ======
 
-Heading 3
-======
+2020-2023 - Adv. Macroeconomics (UCLouvain, graduate)
+2020-2023 - Trade Policy and International Cooperation (UCLouvain, graduate)
