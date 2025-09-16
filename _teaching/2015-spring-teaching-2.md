@@ -1,5 +1,5 @@
 ---
-title: "Lecturer"
+title: ""
 collection: teaching
 type: "Undergraduate"
 permalink: /
