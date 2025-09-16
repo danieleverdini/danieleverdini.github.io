@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center">
+<p align="center">
 
   I am **Economist** at the Research Department of the [National Bank of Belgium](https://www.nbb.be/en).</p>
 
@@ -17,7 +17,7 @@ redirect_from:
 
   The views expressed on this website are my own and do not represent those of the National Bank of Belgium or the Eurosystem.
 
-</div>
+</p>
 
 A data-driven personal website
 ======
