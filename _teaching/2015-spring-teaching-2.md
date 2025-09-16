@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Lecturer"
 collection: teaching
-type: ""
-permalink: /
-venue: ""
-date: ""
-location: ""
+type: "Undergraduate"
+permalink: 
+venue: "UAntwerp"
+date: "2025-01-01"
+location: "City, Country"
 ---
 
 # Lecturer
