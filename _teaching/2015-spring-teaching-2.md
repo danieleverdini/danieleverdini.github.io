@@ -2,7 +2,7 @@
 title: "Lecturer"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/2015-spring-teaching-1
+permalink: 
 venue: "UAntwerp"
 date: "2025-01-01"
 location: "City, Country"
