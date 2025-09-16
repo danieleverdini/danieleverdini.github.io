@@ -2,7 +2,7 @@
 title: "Teaching Experience 2"
 collection: teaching
 type: "Undergraduate"
-permalink: /
+permalink: /teaching/2015-spring-teaching-2
 venue: "UAntwerp"
 date: "2025-01-01"
 location: "City, Country"
