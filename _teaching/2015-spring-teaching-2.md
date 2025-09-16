@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Lecturer"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "UAntwerp"
+date: "Spring 2025"
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+International Economics
 
 Heading 1
 ======
