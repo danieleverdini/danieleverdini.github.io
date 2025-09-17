@@ -6,7 +6,6 @@ permalink: /teaching
 venue: ""
 date: 2026-01-01
 location: ""
-show_date: false
 ---
 
 #### Lecturer
