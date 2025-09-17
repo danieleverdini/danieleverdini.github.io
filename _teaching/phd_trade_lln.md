@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Teaching"
 collection: teaching
 type: ""
@@ -6,7 +7,13 @@ permalink: /teaching
 venue: ""
 date: 2026-01-01
 location: ""
+author_profile: true
 ---
+
+{% include base_path %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 #### Lecturer
 - Spring 2026 - **Adv. International Trade** (UCLouvain, graduate)
