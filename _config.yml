@@ -87,6 +87,8 @@ publication_category:
     title: 'Working Papers'    
   inprogress:
     title: 'Work in Progress'
+  policy:
+    title: 'Policy Work'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
