@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Welcome!"
 author_profile: true
 permalink: /
 redirect_from: 
