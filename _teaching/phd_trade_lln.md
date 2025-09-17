@@ -2,11 +2,11 @@
 layout: archive
 title: "Teaching"
 collection: teaching
-type: ""
+type: "UVL"
 permalink: /teaching
-venue: ""
+venue: "UCL"
 date: 2026-01-01
-location: ""
+location: "UVL"
 author_profile: true
 ---
 
