@@ -1,15 +1,3 @@
----
-layout: archive
-title: "Teaching"
-collection: teaching
-type: "UVL"
-permalink: /teaching
-venue: "UCL"
-date: 2026-01-01
-location: "UVL"
-author_profile: true
----
-
 #### Lecturer
 - Spring 2026 - **Adv. International Trade** (UCLouvain, graduate)
 - Spring 2025 - **International Economics** (UAntwerp, undergraduate)   
