@@ -17,7 +17,11 @@ I hold a PhD in Economics from [UCLouvain](https://www.uclouvain.be/en). For mor
 
 *The views expressed on this website are my own and do not represent those of the National Bank of Belgium or the Eurosystem.*
 
-# Teaching
+## Research & Policy
+
+
+
+## Teaching
 
 ### Lecturer  
 - 2025 - **International Economics** (UAntwerp, undergraduate)   
