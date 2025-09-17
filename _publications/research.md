@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Research
-
 ### Working Papers
 The Anticompetitive Effect of Trade Liberalization (joint with C. Fuss and L. Trimarchi)
 - Best Paper Award at the 15th FIW Research Conference
