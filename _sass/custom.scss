@@ -1,0 +1,18 @@
+/* Remove underlines/hover effects from archive titles */
+.archive__item-title,
+.archive__item-title:hover,
+.archive__item-title a,
+.archive__item-title a:visited,
+.archive__item-title a:hover,
+.archive__item-title a:focus,
+.archive__item-title a:active {
+  text-decoration: none !important;
+  border-bottom: 0 !important; /* some skins draw “underlines” with borders */
+  box-shadow: none !important;  /* others use box-shadow for underlines */
+}
+
+/* Make the cursor normal over non-clickable titles */
+.archive__item-title,
+.archive__item-title a {
+  cursor: default;
+}
