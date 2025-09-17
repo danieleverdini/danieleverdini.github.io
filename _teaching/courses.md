@@ -4,8 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 ### Lecturer  
 - 2025 - **International Economics** (UAntwerp, undergraduate)   
 
