@@ -10,11 +10,6 @@ location: ""
 author_profile: true
 ---
 
-{% include base_path %}
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 #### Lecturer
 - Spring 2026 - **Adv. International Trade** (UCLouvain, graduate)
 - Spring 2025 - **International Economics** (UAntwerp, undergraduate)   
