@@ -13,4 +13,6 @@ My research focuses on issues related to **international trade** and **industria
 
 I hold a PhD in Economics from [UCLouvain](https://www.uclouvain.be/en). For more information, take a look at my research page and CV.
 
+---
+
 *The views expressed on this website are my own and do not represent those of the National Bank of Belgium or the Eurosystem.*
