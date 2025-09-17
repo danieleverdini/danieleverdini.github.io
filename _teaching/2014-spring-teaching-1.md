@@ -1,20 +1,33 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Courses Taught"
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# Courses Taught
 
-Heading 1
-======
+Below is a selection of courses I have taught.  
 
-Heading 2
-======
+---
 
-Heading 3
-======
+### Introduction to Computer Science  
+- **Location:** University of Example  
+- **Time:** Fall 2022  
+- **Level:** Undergraduate  
+- **Content:** Basic programming concepts, problem-solving strategies, and introduction to Python.
+
+---
+
+### Advanced Machine Learning  
+- **Location:** University of Example  
+- **Time:** Spring 2021  
+- **Level:** Graduate  
+- **Content:** Deep learning methods, reinforcement learning, and model interpretability.
+
+---
+
+### Data Visualization and Communication  
+- **Location:** Example Institute  
+- **Time:** Summer 2020  
+- **Level:** Undergraduate  
+- **Content:** Techniques for effective visualization, storytelling with data, and hands-on projects using R and Python.
