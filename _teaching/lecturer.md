@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate"
 permalink: /teaching/lecturer
 venue: "UCLouvain"
-date: 2026
+date: 2026-01-01
 location: ""
 ---
 
