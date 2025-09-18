@@ -1,13 +1,16 @@
 ---
-layout: single
-title: "Research & Policy"
-permalink: /research-policy/
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-classes: research-policy-page section-h2
 ---
-{% assign post  = include.post  | default: post %}
-{% assign title = include.title | default: post.title %}
+
 {% include base_path %}
+
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for post in pubs %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Research
 
