@@ -10,22 +10,10 @@ classes: teaching-page
 {% assign lecturers = items | where: "role", "Lecturer" %}
 {% assign tas = items | where: "role", "Teaching Assistant" %}
 
-## Lecturer
-<ul class="teaching-list">
-{% for post in lecturers %}
-  <li>
-    {% if post.term %}{{ post.term }}{% elsif post.years %}{{ post.years }}{% elsif post.date %}{{ post.date | date: "%Y" }}{% endif %}
-    - {{ post.title }}{% if post.venue or post.type %} ({{ post.venue }}{% if post.type %}, {{ post.type | downcase }}{% endif %}){% endif %}
-  </li>
-{% endfor %}
-</ul>
+#### Lecturer
+- Spring 2026 - **Adv. International Trade** (UCLouvain, graduate)
+- Spring 2025 - **International Economics** (UAntwerp, undergraduate)
 
-## Teaching Assistant
-<ul class="teaching-list">
-{% for post in tas %}
-  <li>
-    {% if post.years %}{{ post.years }}{% elsif post.term %}{{ post.term }}{% elsif post.date %}{{ post.date | date: "%Y" }}{% endif %}
-    - {{ post.title }}{% if post.venue or post.type %} ({{ post.venue }}{% if post.type %}, {{ post.type | downcase }}{% endif %}){% endif %}
-  </li>
-{% endfor %}
-</ul>
+#### Teaching Assistant
+- 2020-2022 - **Adv. Macroeconomics** (UCLouvain, graduate)
+- 2021-2023 - **Trade Policy and International Cooperation** (UCLouvain, graduate)
