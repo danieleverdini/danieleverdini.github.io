@@ -30,13 +30,11 @@
   border: 0;
 }
 
-/* Right-align top navigation links */
-.greedy-nav .visible-links {
-  margin-left: auto;           /* pushes the links to the right */
-  justify-content: flex-end;   /* keep items snug on the right */
+/* Bigger gap between site title and first tab */
+.greedy-nav .visible-links { 
+  margin-left: 2rem;   /* tweak value */
 }
 
-/* Optional: spacing between items */
-.greedy-nav .visible-links > li {
-  margin-left: 0.9rem;
+@media (max-width: 900px) {
+  .greedy-nav .visible-links { margin-left: 1rem; }
 }
