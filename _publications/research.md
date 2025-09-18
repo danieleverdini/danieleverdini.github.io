@@ -10,7 +10,7 @@ author_profile: true
 [The Anticompetitive Effect of Trade Liberalization](https://www.google.com/?hl=fr) (joint with C. Fuss and [L. Trimarchi](https://ltrimarchi.wixsite.com/site))<br/>
 *Best Paper Award at the 15th FIW Research Conference*
 
-[External Economies of Scale and Dynamic Comparative Advantage](https://www.google.com/?hl=fr)
+[External Economies of Scale and Dynamic Comparative Advantage](files/exteconscale.pdf)
 
 [Globalization and the Urban-Rural Divide in France](https://www.google.com/?hl=fr) (joint with [F. Mayneris](http://www.florianmayneris.ca) and [G. Vannoorenberghe](https://sites.google.com/site/gvannoor))
 
