@@ -7,8 +7,7 @@ author_profile: true
 
 ## Working Papers 
 
-[The Anticompetitive Effect of Trade Liberalization](https://www.google.com/?hl=fr) (joint with C. Fuss and [L. Trimarchi](https://ltrimarchi.wixsite.com/site))
-
+[The Anticompetitive Effect of Trade Liberalization](https://www.google.com/?hl=fr) (joint with C. Fuss and [L. Trimarchi](https://ltrimarchi.wixsite.com/site))<br/>
 - *Best Paper Award at the 15th FIW Research Conference](https://www.google.com/?hl=fr)
 
 [External Economies of Scale and Dynamic Comparative Advantage](https://www.google.com/?hl=fr)
@@ -31,5 +30,5 @@ The Political Economy of Rising Concentration in U.S. Markets (joint with [M. Gr
 
 ## Policy Papers
 
-[The competitiveness and decarbonisation challenges facing energy-intensive industries](https://www.nbb.be/en/publications-and-research/publications/all-publications/competitiveness-and-decarbonisation) (joint with C. Swartenbroekx)
+[The competitiveness and decarbonisation challenges facing energy-intensive industries](https://www.nbb.be/en/publications-and-research/publications/all-publications/competitiveness-and-decarbonisation) (joint with C. Swartenbroekx)<br/>
 *NBB Economic Review*, May 2025
