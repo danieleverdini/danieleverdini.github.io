@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers 
 
 [The Anticompetitive Effect of Trade Liberalization](https://www.google.com/?hl=fr) (joint with C. Fuss and [L. Trimarchi](https://ltrimarchi.wixsite.com/site))<br/>
-- *Best Paper Award at the 15th FIW Research Conference](https://www.google.com/?hl=fr)
+- *Best Paper Award at the 15th FIW Research Conference*
 
 [External Economies of Scale and Dynamic Comparative Advantage](https://www.google.com/?hl=fr)
 
