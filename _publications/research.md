@@ -14,13 +14,13 @@ author_profile: true
 
 [Globalization and the Urban-Rural Divide in France]() (joint with [F. Mayneris](http://www.florianmayneris.ca) and [G. Vannoorenberghe](https://sites.google.com/site/gvannoor))
 
-[Common Ownership and Markups: Evidence from EU Manufacturing]() (joint with [C. Bellucci](https://sites.google.com/imtlucca.it/chiara-bellucci/research) and [E. Zaurino](https://www.elenazaurino.com/))
+[Common Ownership and Markups: Evidence from EU Manufacturing]() (joint with [C. Bellucci](https://sites.google.com/imtlucca.it/chiara-bellucci) and [E. Zaurino](https://www.elenazaurino.com))
 
 ---
 
 ## Work in Progress
 
-Energy Cost Shocks Pass-Through in Production Networks (joint with [E. Dhyne](https://sites.google.com/view/emmanueldhyne/home), [L. Laeven](https://sites.google.com/site/laevenl/home), and [M. Weber](https://bfi.uchicago.edu/scholar/michael-weber/))
+Energy Cost Shocks Pass-Through in Production Networks (joint with [E. Dhyne](https://sites.google.com/view/emmanueldhyne/home), [L. Laeven](https://sites.google.com/site/laevenl/home), and [M. Weber](https://bfi.uchicago.edu/scholar/michael-weber))
 
 Factors' Prices and Technology Adoption: Evidence from the EU Agricultural Sector (joint with [A. Frigo](https://annalisafrigo.weebly.com) and [R. Turati](https://sites.google.com/view/riccardoturati))
 
