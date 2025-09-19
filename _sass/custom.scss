@@ -32,9 +32,9 @@
 
 /* Bigger gap between site title and first tab */
 .greedy-nav .visible-links { 
-  margin-left: 8rem;   /* tweak value */
+  margin-left: 1rem;   /* tweak value */
 }
 
 @media (max-width: 900px) {
-  .greedy-nav .visible-links { margin-left: 2rem; }
+  .greedy-nav .visible-links { margin-left: &rem; }
 }
