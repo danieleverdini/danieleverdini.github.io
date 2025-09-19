@@ -7,14 +7,14 @@ author_profile: true
 
 ## Working Papers 
 
-[The Anticompetitive Effect of Trade Liberalization](https://www.google.com/?hl=fr) (joint with C. Fuss and [L. Trimarchi](https://ltrimarchi.wixsite.com/site))<br/>
+[The Anticompetitive Effect of Trade Liberalization]({{ '/files/chinamarkups.pdf' | relative_url }}){:target="_blank" rel="noopener"} (joint with C. Fuss and [L. Trimarchi](https://ltrimarchi.wixsite.com/site))<br/>
 *Best Paper Award at the 15th FIW Research Conference*
 
 [External Economies of Scale and Dynamic Comparative Advantage]({{ '/files/exteconscale.pdf' | relative_url }}){:target="_blank" rel="noopener"}
 
-[Globalization and the Urban-Rural Divide in France](https://www.google.com/?hl=fr) (joint with [F. Mayneris](http://www.florianmayneris.ca) and [G. Vannoorenberghe](https://sites.google.com/site/gvannoor))
+[Globalization and the Urban-Rural Divide in France]() (joint with [F. Mayneris](http://www.florianmayneris.ca) and [G. Vannoorenberghe](https://sites.google.com/site/gvannoor))
 
-[Common Ownership and Markups: Evidence from EU Manufacturing](https://www.google.com/?hl=fr) (joint with [C. Bellucci](https://sites.google.com/imtlucca.it/chiara-bellucci/research) and [E. Zaurino](https://www.elenazaurino.com/))
+[Common Ownership and Markups: Evidence from EU Manufacturing]() (joint with [C. Bellucci](https://sites.google.com/imtlucca.it/chiara-bellucci/research) and [E. Zaurino](https://www.elenazaurino.com/))
 
 ---
 
