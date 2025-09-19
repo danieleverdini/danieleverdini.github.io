@@ -30,11 +30,24 @@
   border: 0;
 }
 
-/* Bigger gap between site title and first tab */
-.greedy-nav .visible-links { 
-  margin-left: 1rem;   /* tweak value */
+/* Header (Minimal Mistakes greedy nav) */
+.masthead .greedy-nav {
+  display: flex;
+  align-items: center;
 }
 
-@media (max-width: 900px) {
-  .greedy-nav .visible-links { margin-left: &rem; }
+/* Keep the site title anchored left */
+.masthead .site-title {
+  margin-right: auto;         /* pushes everything else to the right */
+  padding-right: 1.25rem;     /* bigger gap before the first tab (tweak) */
 }
+
+/* Right-align only the top tabs */
+.masthead .greedy-nav .visible-links {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 0;             /* make sure no 'auto' here */
+}
+
+/* Ensure page/content headings stay left-aligned */
+.page__title { text-align: left; }
