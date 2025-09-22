@@ -51,3 +51,16 @@
 
 /* Ensure page/content headings stay left-aligned */
 .page__title { text-align: left; }
+
+/* Homepage picture only */
+.layout--home .author__avatar,
+.layout--home .author__avatar img {
+  border-radius: 0 !important;
+  box-shadow: none;
+  overflow: visible;
+}
+.layout--home .author__avatar img {
+  height: auto !important;
+  width: 100%;
+  max-width: 160px;
+}
