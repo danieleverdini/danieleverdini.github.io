@@ -28,7 +28,7 @@ The Political Economy of Rising Concentration in U.S. Markets (joint with [M. Gr
 
 ---
 
-## Policy Papers
+## Policy Work
 
 [The competitiveness and decarbonisation challenges facing energy-intensive industries](https://www.nbb.be/en/publications-and-research/publications/all-publications/competitiveness-and-decarbonisation) (joint with C. Swartenbroekx)<br/>
 *NBB Economic Review*, May 2025
