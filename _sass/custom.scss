@@ -52,15 +52,17 @@
 /* Ensure page/content headings stay left-aligned */
 .page__title { text-align: left; }
 
-/* Homepage picture only */
-.layout--home .author__avatar,
-.layout--home .author__avatar img {
+/* Make the profile photo rectangular (no rounded corners) */
+.author__avatar,
+.author__avatar img {
   border-radius: 0 !important;
-  box-shadow: none;
-  overflow: visible;
+  box-shadow: none;           /* optional: remove drop shadow */
+  overflow: visible;          /* avoid any clipping from the container */
 }
-.layout--home .author__avatar img {
-  height: auto !important;
+
+/* Keep sizing sane and preserve the image’s natural aspect ratio */
+.author__avatar img {
+  height: auto !important;    /* in case the theme sets a fixed height */
   width: 100%;
-  max-width: 160px;
+  max-width: 160px;           /* tweak to your preferred width */
 }
