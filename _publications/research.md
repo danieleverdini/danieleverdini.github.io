@@ -32,4 +32,5 @@ The Political Economy of Rising Concentration in U.S. Markets (joint with [M. Gr
 ## Policy Work
 
 [The competitiveness and decarbonisation challenges facing energy-intensive industries](https://www.nbb.be/en/publications-and-research/publications/all-publications/competitiveness-and-decarbonisation) (joint with C. Swartenbroekx)<br/>
-*NBB Economic Review*, May 2025
+*NBB Economic Review*, May 2025<br/>
+In media: [L'Echo](https://www.lecho.be/economie-politique/belgique/economie/la-competitivite-des-industries-intensives-en-energie-mise-a-mal/10605646.html), [La Libre](https://www.lalibre.be/dernieres-depeches/2025/05/05/la-competitivite-a-moyen-terme-des-industries-intensives-en-energie-belges-est-compromise-MALSR42URBFW5ILWWEE2P7KIQ4/), [Trends-Tendences](https://trends.levif.be/entreprises/lindustrie-belge-face-a-un-mur-energetique-une-competitivite-en-peril/)
