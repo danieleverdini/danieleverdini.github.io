@@ -25,8 +25,6 @@ Common Ownership and Markups (joint with [C. Bellucci](https://sites.google.com/
 
 Factors' Prices and Technology Adoption: Evidence from the EU Agricultural Sector (joint with [A. Frigo](https://annalisafrigo.weebly.com) and [R. Turati](https://sites.google.com/view/riccardoturati))
 
-The Political Economy of Rising Concentration in U.S. Markets (joint with [M. Grotteria](https://sites.google.com/site/marcogrotteria/home), [E. Navarra](https://sites.google.com/view/elisanavarra), and [L. Trimarchi](https://ltrimarchi.wixsite.com/site))
-
 ---
 
 ## Policy Work
