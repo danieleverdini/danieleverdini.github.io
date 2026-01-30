@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Economist** at the Research Department of the [National Bank of Belgium](https://www.nbb.be/en).
+I am **Senior Economist** at the Research Department of the [National Bank of Belgium](https://www.nbb.be/en).
 
 **Research fields**: International Trade, Industrial Organization
 
