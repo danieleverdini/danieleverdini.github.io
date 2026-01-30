@@ -17,4 +17,14 @@ author_profile: true
 
 ## Conferences
 
+[ATW - Australasian Trade Workshop](https://sites.google.com/view/australasiantradeworkshop/home)
+
+[ETSG - European Trade Study Group](https://etsg.org)
+
+[FIW - Research Centre for International Economics](https://www.fiw.ac.at/en/event/)
+
+[FREIT - Forum for Research in International Trade](https://www.freit.org/)
+
 [GENW - Global Economics Networks Workshop](https://sites.google.com/site/petereppinger/gen-workshop)
+
+[RIEF - Research in International Economics and Finance](https://sites.google.com/site/riefnetwork/home) 
